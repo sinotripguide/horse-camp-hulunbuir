@@ -62,4 +62,23 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://horse.laobaixingbanshi.com/articles/20261108-上马下马正确姿势.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://horse.laobaixingbanshi.com/articles/20261108-鄂伦春马是什么马.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://horse.laobaixingbanshi.com/articles/20261108-冬天零下30度骑马.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
