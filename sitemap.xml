@@ -176,4 +176,23 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://horse.laobaixingbanshi.com/articles/20261114-骑马穿什么衣服鞋子避坑.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://horse.laobaixingbanshi.com/articles/20261114-奥尔洛夫快步马.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://horse.laobaixingbanshi.com/articles/20261114-两个南方姑娘草原骑马.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
